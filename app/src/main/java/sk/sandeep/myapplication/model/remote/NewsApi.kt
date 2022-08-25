@@ -9,7 +9,7 @@ import sk.sandeep.myapplication.util.API_KEY
 interface NewsApi {
     @GET("v2/top-headlines")
     suspend fun getTopHeadlines(
-        @Query("country") country: String = "in",
+        @Query("country") country: String,
         @Query("apiKey") apiKey: String = API_KEY
     ): Response<NewsApiResponse>
 }

@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Flutter App/ApiDemoWithResourceAndHilt/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Flutter App/ApiDemoWithResourceAndHilt/app/src/main/res/layout/fragment_top_headlines.xml" value="0.1" />
+        <entry key="..\:/Flutter App/ApiDemoWithResourceAndHilt/app/src/main/res/layout/news_item.xml" value="0.1" />
         <entry key="..\:/android_project/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/android_project/MyApplication2/app/src/main/res/layout/fragment_top_headlines.xml" value="0.1" />
       </map>
